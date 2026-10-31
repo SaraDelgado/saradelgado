@@ -10,6 +10,6 @@ The brand is editorial first: real photography, curated places, and quiet escape
 
 Every error gets fixed and written back into the instructions, so the system improves as it runs.
 
-**What I'm into:** AI workflows · content strategy · Mexican design, architecture and craft
+**What I'm into:** AI workflows · growth strategy · silver economy · Mexican design, architecture and craft
 
 📍 Mexico City · 📸 [@onedaytripmexicocity](https://www.instagram.com/onedaytripmexicocity/)
