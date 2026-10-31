@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Sara 👋
 
-<!--
-**SaraDelgado/saradelgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm based in Mexico City, where I'm building **[One Day Trip Mexico City](https://www.instagram.com/onedaytripmexicocity/)**, the aesthetic guide to the most beautiful day trips from CDMX for international travelers.
 
-Here are some ideas to get you started:
+The brand is editorial first: real photography, curated places, and quiet escapes far from mass tourism. Behind the scenes, I run it with AI agents, using a simple system that keeps the work reliable:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Directives:** plain-language SOPs that define what needs to happen
+- **Agents:** the decision layer that reads the instructions and picks the right tools
+- **Scripts:** deterministic Python that does the actual work
+
+Every error gets fixed and written back into the instructions, so the system improves as it runs.
+
+**What I'm into:** AI workflows · content strategy · Mexican design, architecture and craft
+
+📍 Mexico City · 📸 [@onedaytripmexicocity](https://www.instagram.com/onedaytripmexicocity/)
